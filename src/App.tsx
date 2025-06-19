@@ -100,7 +100,7 @@ function App() {
       {/* Input field to type messages */}
       <input
         type="text"
-        placeholder="Type sali"
+        placeholder="Type ping"
         value={data} // Controlled input — keeps input in sync with React state
         onChange={handleUpdate}
       />
