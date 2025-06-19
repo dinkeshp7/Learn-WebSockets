@@ -54,7 +54,6 @@ function App() {
 
     // Set the connection flag to true
     setConnected(true);
-
     // Optional cleanup function (not needed here as it's inside a normal function, not useEffect)
     // return () => {
     //   newSocket.close();
